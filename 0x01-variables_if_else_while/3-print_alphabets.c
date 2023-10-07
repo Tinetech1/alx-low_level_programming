@@ -10,7 +10,6 @@ int main(void)
 	int upperCase = 'A';
 	
 	while (lowerCase <= 'z')
-
 	{
 	putchar(lowerCase);
 	lowerCase += 1;
